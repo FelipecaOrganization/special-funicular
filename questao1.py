@@ -25,26 +25,7 @@ def divisao(a,b):
 def questao1 (b,c):
   return b-c
 
-def divisao(a,b):
-  return a/b
+#MOSTRANDO A FUNCIONALIDADE PRO GUTINHO E PRO LOMENHA
+#MOSTRANDO A FUNCIONALIDADE PRO GUTINHO E PRO LOMENHA
+#MOSTRANDO A FUNCIONALIDADE PRO GUTINHO E PRO LOMENHA
 
-#aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
-def questao1 (b,c):
-  return b-c
-
-def divisao(a,b):
-  return a/b
-
-def questao1 (b,c):
-  return b-c
-
-def divisao(a,b):
-  return a/b
-
-def questao1 (b,c):
-  return b-c
-
-def divisao(a,b):
-  return a/b
-  
