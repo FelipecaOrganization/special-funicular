@@ -30,7 +30,7 @@ def divisao(a,b):
 
 #aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-ef questao1 (b,c):
+def questao1 (b,c):
   return b-c
 
 def divisao(a,b):
